@@ -390,4 +390,4 @@ You can use this Ko-fi button:
 
 Or go to my Buy me a coffee page: [buymeacoffee.com/srsergior](https://buymeacoffee.com/srsergior)
 
-You can also check some of my other work on itch or in this github account, like my Pico-8 games or bebop, a music generator for games and video soundtracks.
+You can also check some of my other work on [itch](https://srsergior.itch.io/) or in this github account, like my Pico-8 games or bebop, a music generator for games and video soundtracks.
